@@ -4,14 +4,16 @@
 
 
 // Your web app's Firebase configuration
+
+//TODO - FIREBASE CONFIGURATIONS
 var firebaseConfig = {
-    apiKey: "AIzaSyBA747nfOjR5gqD4ngOdcgE94ixSMjUCUo",
-    authDomain: "contactformapplication-cb127.firebaseapp.com",
-    databaseURL: "https://contactformapplication-cb127.firebaseio.com",
-    projectId: "contactformapplication-cb127",
-    storageBucket: "contactformapplication-cb127.appspot.com",
-    messagingSenderId: "911487807793",
-    appId: "1:911487807793:web:378bd73c259ff325538010"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
